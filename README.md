@@ -1,5 +1,5 @@
 #  Purchases in USA
-Aplicativo para calculo de taxas em dolar 
+Aplicativo para cálculo de taxas em dólar 
 
 # Feature
 - Aprendi o uso de singleton em Swift
