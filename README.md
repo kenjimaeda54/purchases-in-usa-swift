@@ -6,7 +6,7 @@ Aplicativo para cálculo de taxas em dólar
 - Segredo  deixar privado  construtor, assim ninguém consegue instanciar
 - Outro detalhe interessante  usar  extension para UIViewController, assim não preciso Taxas.initConstructor.propriedades
 - Precisa ser implementado em classes, porque struct não permite o uso de getter e setter como imutabilidade
-- Para garanti que não ocorra erro por converter estilos locais, usei objeto NumberFormatter().
+- Para garantir que não ocorra erro por converter estilos locais, usei objeto NumberFormatter().
 - Cuidado ao usar o formatter.number, normalmente se não conseguir parsear ocorrera error
 
 ```swift
